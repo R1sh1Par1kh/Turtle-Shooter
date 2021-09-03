@@ -157,5 +157,4 @@ Hard things i learned
  - creating the functions for spawing criminals
  - shoot function
  - rows, coulmns, and placement (x,y)
-
 '''
